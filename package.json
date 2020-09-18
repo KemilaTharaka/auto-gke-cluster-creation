@@ -1,0 +1,11 @@
+{
+    "name": "gke-hello-world",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^3.24.0",
+        "@pulumi/kubernetes": "^2.6.1",
+        "@pulumi/pulumi": "^2.10.1"
+    }
+}
